@@ -35,7 +35,8 @@
 .typing-name,
 #about-title,
 #contact-email h1,
-#header-themes{
+#header-themes,
+#scroll-to-top{
     color: #fffafa !important;
 }
 
