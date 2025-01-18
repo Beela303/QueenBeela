@@ -783,7 +783,7 @@ header ul{
 
 /*==========================DARK/LIGHT THEME TOGGLE=============================*/
 #header-themes{
-    /*width: 3%;*/
+    width: 1%;
 }
 
 #header-themes ul li{
@@ -2624,6 +2624,8 @@ a .work h2:hover{
     align-items: center;
     
     background: var(--table-of-content-bg);
+
+    display: none;
 }
 
 .languages-used p:hover{
