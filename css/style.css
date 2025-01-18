@@ -782,9 +782,9 @@ header ul{
 }
 
 /*==========================DARK/LIGHT THEME TOGGLE=============================*/
-#header-themes{
+/*#header-themes{
     width: 1%;
-}
+}*/
 
 #header-themes ul li{
     font-size: 1.5rem;
@@ -1057,7 +1057,7 @@ footer p{
     }
 
     header p{
-        margin-left: 5%;
+        margin-left: 7%;
     }
 
     #header-menu,
