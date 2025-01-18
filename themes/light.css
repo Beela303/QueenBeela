@@ -40,6 +40,7 @@
 }
 
 header,
+#phone-header,
 #scroll-to-top{
     color: var(--main2) !important;
     /*background: var(--linear-gradient-hover);*/
