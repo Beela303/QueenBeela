@@ -1057,7 +1057,7 @@ footer p{
     }
 
     header p{
-        margin-left: 10%;
+        margin-left: 6% ! important;
     }
 
     #header-menu,
