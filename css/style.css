@@ -783,7 +783,7 @@ header ul{
 
 /*==========================DARK/LIGHT THEME TOGGLE=============================*/
 #header-themes{
-    width: 3%;
+    /*width: 3%;*/
 }
 
 #header-themes ul li{
