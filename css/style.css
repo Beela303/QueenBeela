@@ -1057,7 +1057,7 @@ footer p{
     }
 
     header p{
-        margin-left: 7%;
+        margin-left: 10%;
     }
 
     #header-menu,
@@ -2594,7 +2594,7 @@ a .work h2:hover{
 
 .project-box{
     height: 400px;
-    /*height: 450px;
+    /*height: 450px;*/
     margin: 2.5%;
     
     border: var(--border-main);
