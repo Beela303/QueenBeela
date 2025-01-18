@@ -1,0 +1,62 @@
+:root{
+    --main:#160214;
+    --main2: #1b0118;
+
+    /*--hover: #a51c45c2;*/
+    --hover: #d61586ed;
+
+    --main-transparent : #e3160214;
+    --transparent: #0000008e;
+    --transparent2: rgba(0, 0, 0, 0.5);
+
+    --white: #fff;
+    --link: #0b3f3f;
+
+    /*--link: #145353 #0a3838 #074242;*/
+
+    --border: grey;
+    --border-main: 2px solid rgb(42, 22, 40);
+
+    --dark-purple: #290826;
+    --light-purple: #2a1628;
+    --pretty-dark-blue: #16021400;
+    --pretty-blue: #3f729b;
+    --pretty-purple: #5c1e5c;
+
+    --table-of-content-bg: #e4dada;
+    --table-of-content-bg2: #2a1628d7;
+
+    --another-green: #089000;
+
+    --warning: #ac1010;
+}
+
+nav,
+header,
+#phone-header,
+.scroll-header,
+#scroll-to-top,
+::-webkit-scrollbar-thumb,
+footer{
+    /*background: var(--linear-gradient-hover);
+    background: rgba(19, 4, 19, 0.6);*/
+    background: rgba(66, 2, 66, 0.6);
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background: rgba(44, 7, 44, 0.6);
+}
+
+#contact-text button {
+    background: #2a1628;
+    
+}
+
+#phone-header li a,
+.typing-name,
+#about-title,
+#contact-email h1,
+#header-themes,
+#scroll-to-top{
+    color: #fffafa !important;
+}
