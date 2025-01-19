@@ -1084,7 +1084,7 @@ footer p{
     }
 
     header p{
-        margin-left: 10% ! important;
+        margin-left: 20% ! important;
     }
 
     #header-menu,
@@ -1400,7 +1400,7 @@ footer p{
     }
 
     #phone-header li:first-child{
-        margin-left: 10%;
+        margin-left: 1%;
     }
         
     #contact-div{
