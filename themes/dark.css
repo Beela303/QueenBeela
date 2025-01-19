@@ -105,3 +105,11 @@ h6,
 .project-box a p{
     color: #fafafa;
 }
+
+#home-page a{
+    background: #1b0118;
+}
+
+.typing {
+    color:#1b0118
+}
