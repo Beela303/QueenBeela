@@ -32,8 +32,8 @@
 }
 
 body{
-    color: var(--black)
-    background: var(--white)
+    color: var(--black);
+    background: var(--white);
 }
 
 nav,
