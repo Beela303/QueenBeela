@@ -1233,6 +1233,10 @@ footer p{
         display: none;
     }
 
+    .caption{
+        font-size: 16px;
+    }
+
     #contact-text{
         font-size: 1rem;
         padding: 15px;
