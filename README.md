@@ -6,7 +6,7 @@ v1 (this one) - https://beela303.github.io/QueenBeela
 <br/>
 v2 (using vue) - https://beela303.vercel.app
 
-##TECH USED:
+## TECH USED:
 HTML, CSS, JAVASCRIPT & JQUERY
 
 ADDITIONAL:
